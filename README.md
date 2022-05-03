@@ -1,2 +1,2 @@
-# Shopping-cart
-shopping cart project
+# navBarExercises
+Basic Exercises in Navbar, Props etc
